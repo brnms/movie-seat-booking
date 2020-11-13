@@ -1,3 +1,3 @@
-Movie Seat Booking App
+##Movie Seat Booking App
 
 https://brnms.github.io/movie-seat-booking/
